@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.sun.thread.chapter2.section2;
+package com.sun.thread.chapter3;
 
 import java.util.concurrent.locks.ReentrantLock;
 
